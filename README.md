@@ -13,14 +13,17 @@
 | Lyric Writing Date | May 07, 2026 |
 | Song Page | [Open Song Page](https://imabusayed.github.io/ei-chayapothe/) |
 | License | [View License](./LICENSE.md) |
-| Get License | [Get License For Ei Chayapothe](https://music.abusayed.com.bd/Licensing/) |
+| Get License | [License this song: Ei Chayapothe](https://music.abusayed.com.bd/Licensing/) |
 | Artist | Abu Sayed |
 
 ---
 
 ## Excerpt
 
-> [Clean lyric will be pushed here]
+> নীল ছায়াপথে আজও আমি তোমার ছায়া খুঁজি
+> নিঃসঙ্গ এই রাতের বুকে তোমার কথাই বুঝি
+> হারিয়ে যাওয়া আলোর মাঝে তোমার দেখা পাই
+> মনের ভেতর স্বপ্ন বুনে তোমাকে শুধু চাই
 > ...
 
 [View Full Lyrics ->](./lyrics.txt)
